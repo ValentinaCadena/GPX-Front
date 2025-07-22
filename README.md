@@ -32,8 +32,6 @@ El proyecto sigue una arquitectura basada en Atomic Design:
   /organisms    -> Secciones completas: Sidebar, Layout, Secciones de perfil
 /pages          -> Rutas principales (index, login, eventos, resultados...)
 /context        -> EventContext para compartir datos de eventos entre vistas
-/types          -> Tipado de entidades como Evento, Movimiento, Usuario
-/utils          -> Funciones auxiliares como validación de usuarios
 /public         -> Imágenes usadas en las vistas
 ```
 
