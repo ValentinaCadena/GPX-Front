@@ -81,13 +81,13 @@ El login está diseñado para permitir ingreso solo a usuarios autorizados, como
 
 ### 🧠 Molecules
 
-* `UserCard`: Tarjeta de perfil con botones personalizables.
 * `CompetenceRow`: Fila de resultados o clasificaciones.
 * `VideoCard`: Tarjeta con video y datos de video, toma URL de youtube y muestra el video.
 * `EventDescriptionCard`: Tarjeta con info, imagen y detalles del evento personalizables.
 
 ### 🧳 Organisms
 
+* `UserCard`: Tarjeta de perfil con botones personalizables.
 * `ControlPointRegister`: Vista para registrar paso de participantes.
 * `UpcomingEvents`: Vista con tarjetas de eventos próximos.
 * `EventDetails`: Descripción de un evento seleccionado.
