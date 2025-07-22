@@ -83,7 +83,7 @@ El login está diseñado para permitir ingreso solo a usuarios autorizados, como
 
 * `UserCard`: Tarjeta de perfil con botones personalizables.
 * `CompetenceRow`: Fila de resultados o clasificaciones.
-* `VideoCard`: Card con video y datos de video, toma URL de youtube y muestra el video.
+* `VideoCard`: Tarjeta con video y datos de video, toma URL de youtube y muestra el video.
 * `PriceRow`: Fila de costos con soporte para despliegue de múltiples entradas.
 
 ### 🧳 Organisms
