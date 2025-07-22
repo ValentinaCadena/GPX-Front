@@ -109,7 +109,6 @@ El login está diseñado para permitir ingreso solo a usuarios autorizados, como
 
 ## 📱 Responsividad
 
-* Sidebar oculta en resoluciones pequeñas y desplegable mediante botón.
 * Componentes adaptativos con `flex`, `grid`, `gap`, `min-h`, `overflow`, etc.
 * Textos, botones y tablas adaptados a móvil, tablet y escritorio.
 
