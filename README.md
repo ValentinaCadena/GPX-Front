@@ -88,7 +88,6 @@ El login está diseñado para permitir ingreso solo a usuarios autorizados, como
 
 ### 🧳 Organisms
 
-* `Layout`: Estructura base para la aplicación.
 * `ControlPointRegister`: Vista para registrar paso de participantes.
 * `UpcomingEvents`: Vista con tarjetas de eventos próximos.
 * `EventDetails`: Descripción de un evento seleccionado.
